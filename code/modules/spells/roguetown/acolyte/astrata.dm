@@ -5,6 +5,7 @@
 	req_items = list(/obj/item/clothing/neck/roguetown/psicross)
 	associated_skill = /datum/skill/magic/holy
 	antimagic_allowed = TRUE
+	invocations = list("Königliche, sengende macht!", "Souveräne, sengende macht!")
 	recharge_time = 25 SECONDS
 	miracle = TRUE
 	devotion_cost = 40
